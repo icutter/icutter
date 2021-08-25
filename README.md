@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Damiano from Italy
+- 👋 Hi, I’m Damiano, a software engineering student with game dev experience from Italy
 - 👀 I’m interested in Unity game development and software/hardware audio processing
-- 🌱 I’m currently an engineering student
 - 💞️ I’m looking to collaborate on game jams, just for fun
 - 📫 eMail me at: ironcutter24@gmail.com
 
