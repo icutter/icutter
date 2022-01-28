@@ -1,6 +1,5 @@
-- Hi, I’m Damiano, a software engineering student with game dev experience from Italy
-- I’m interested in signal processing and Unity game development
-- I’m looking to collaborate on game jams, just for fun
+- Hi, I’m Damiano, a Unity game developer from Italy
+- I’m looking to collaborate on game jams
 - eMail me at: ironcutter24@gmail.com
 
 <!---
