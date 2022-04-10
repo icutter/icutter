@@ -1,4 +1,4 @@
-- Hi! I’m Damiano, a game dev from Italy
+- Hi! I’m Damiano, a gamedev from Italy
 - I’m looking to collaborate on game jams
 - eMail me at: ironcutter24@gmail.com
 
