@@ -40,3 +40,12 @@ You can click the Preview link to take a look at your changes.
 Shields badges:
 https://ileriayo.github.io/markdown-badges/
 --->
+
+<!--
+## Statistics
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ironcutter24)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ironcutter24)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ironcutter24)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ironcutter24)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ironcutter24)
+-->
