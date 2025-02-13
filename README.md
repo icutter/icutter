@@ -9,9 +9,9 @@ https://ileriayo.github.io/markdown-badges/
 ### Statistics
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ironcutter24&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ironcutter24&theme=gruvbox)
 -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ironcutter24&theme=gruvbox)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ironcutter24&theme=gruvbox)
 
 ### Engines / Frameworks
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
